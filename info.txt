@@ -1,1 +1,2 @@
-ngo tung son - hello
+Name: Ngo Tung Son
+University: HUST
